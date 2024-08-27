@@ -1,0 +1,36 @@
+{
+    "Metadata": {
+        "LocalizedName": "English",
+        "FontLarge": "Munro",
+        "FontSmall": "MunroSmall"
+    },
+    "Version0": {
+        "Console:Title": "Console%1",
+        "Console:TitleExtra": " - Toggle with F5",
+        "Console:Footer": "- v%1 - View full output in console.txt - Line %2/%3 -",
+        "Menu:Title": "Main Menu",
+        "Content:Title": "Content",
+        "Options:Title": "Options",
+        "Options:Tooltip": "Change application settings.",
+        "Locales:Title": "Locales",
+        "Locales:Tooltip": "Select a different language.",
+        "Blog:Title": "Blog",
+        "Blog:Tooltip": "Check out what's new!",
+        "Interactable:ActionResetTooltip": "Reset to default parameters.",
+        "Interactable:ActionGitHubTooltip": "View the issue tracker on GitHub!",
+        "Interactable:ActionLocalesTooltip": "Select a different language.",
+        "Interactable:ActionOptionsTooltip": "Change application settings.",
+        "Interactable:MotionDisableTitle": "Disable Motion",
+        "Interactable:MotionDisableTooltip": "Turns off screen tweening and other elements.",
+        "Interactable:ScaleTitle": "Screen Resolution",
+        "Interactable:ScaleTooltip": "The screen scale multiplier for the UI. Requires a restart.",
+        "Interactable:VideoVolumeTitle": "Media Playback Volume",
+        "Interactable:VideoVolumeTooltip": "In-app media volume level, from 0-100.",
+        "Interactable:SFXVolumeTitle": "Sound Effect Volume",
+        "Interactable:SFXVolumeTooltip": "Sound effect volume level, from 0-100.",
+        "Interactable:MusicVolumeTitle": "Music Volume",
+        "Interactable:MusicVolumeTooltip": "Background music volume level, from 0-100.",
+        "Interactable:BlogURLTitle": "Read More",
+        "Interactable:BlogURLTooltip": "View announcement event."
+    }
+}
